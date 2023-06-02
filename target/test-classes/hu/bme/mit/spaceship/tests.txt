@@ -1,0 +1,5 @@
+First fire - primary fires
+First fire - primary is empty
+2 fires - alternating
+2 fires - secondary is empty
+2 fires - primary reports an error
